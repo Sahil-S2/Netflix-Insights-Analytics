@@ -151,5 +151,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## **Contact**
 
-For feedback or collaboration, connect via [LinkedIn](linkedin.com/in/sahil-jena-067b1b301) or open an issue in this repository.
+For feedback or collaboration, connect via [LinkedIn](www.linkedin.com/in/sahil-jena-067b1b301) or open an issue in this repository.
 
