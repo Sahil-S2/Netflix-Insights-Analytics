@@ -1,2 +1,2 @@
 # Netflix-Insights-Analytics
-![Netflix_wallpaper]("Netflix_Wallpaper_front.jpg")
+![Netflix_wallpaper]("Netflix_front.jpg")
