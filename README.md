@@ -17,7 +17,6 @@ This repository contains an end-to-end data analysis project on Netflix content.
 - [📂 Visualizations](#visualizations)
 - [🔍 Technologies Used](#technologies-used)
 - [📈 Installation and Usage](#installation-and-usage)
-- [📦 Tools and Skills](#tools-and-skills)
 - [🔍 Project Structure](#project-structure)
   
 ---
