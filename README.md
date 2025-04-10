@@ -8,6 +8,20 @@ This repository contains an end-to-end data analysis project on Netflix content.
 
 ---
 
+## 📑 Table of Contents
+
+- [📌 Project Overview](#project-overview)
+- [🎯 Dataset Information](#dataset-information)
+- [📝 Source](#source)
+- [📊 Key Highlights](#key-highlights)
+- [📂 Visualizations](#visualizations)
+- [🔍 Technologies Used](#technologies-used)
+- [📈 Installation and Usage](#installation-and-usage)
+- [📦 Tools and Skills](#tools-and-skills)
+- [🔍 Project Structure](#project-structure)
+  
+---
+
 ## **Project Overview**
 
 The objective of this project is to extract meaningful insights from Netflix's content database using SQL and present those insights through engaging Power BI dashboards.
