@@ -105,7 +105,25 @@ Each page uses slicers, tooltips, and custom visuals for interactive analysis.
 
 ## **Project Structure**
 
-netflix-content-analysis/ │ ├── data/ │ └── netflix_titles.csv # Original dataset │ └── cleaned_data.csv # Processed for Power BI ├── sql_queries/ │ └── netflix_analysis_queries.sql # All 20+ SQL insights ├── visualizations/ │ └── Netflix_Insights.pbix # Power BI Dashboard file ├── README.md # Project documentation └── screenshots/ └── *.png # Dashboard screenshots
+```
+netflix-content-analysis/
+│
+├── data/
+│   ├── netflix_titles.csv            # Original dataset
+│   └── cleaned_data.csv              # Processed for Power BI
+│
+├── sql_queries/
+│   └── netflix_analysis_queries.sql  # All 20+ SQL insights
+│
+├── visualizations/
+│   └── Netflix_Insights.pbix         # Power BI Dashboard file
+│
+├── screenshots/
+│   └── *.png                         # Dashboard screenshots
+│
+├── README.md                         # Project documentation
+```
+
 
 
 
@@ -133,5 +151,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## **Contact**
 
-For feedback or collaboration, connect via [LinkedIn](https://www.linkedin.com) or open an issue in this repository.
+For feedback or collaboration, connect via [LinkedIn](linkedin.com/in/sahil-jena-067b1b301) or open an issue in this repository.
 
